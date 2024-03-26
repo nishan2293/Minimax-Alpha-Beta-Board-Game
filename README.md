@@ -48,6 +48,11 @@ This project implements Artificial Intelligence (AI) strategies for playing a va
 ## EXAMPLES
 
 ### Alpha beta pruning improves the minimax algorithm 
+
+#### 21 positions in the game in total 
+##### x: position not occupied
+##### W: Position occupied by white pawn player 
+##### B: Position occupied by black pawn player
 <img width="993" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/97364091-43be-4148-bc33-fe4e489d6992">
 
 
