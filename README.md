@@ -45,6 +45,16 @@ This project implements Artificial Intelligence (AI) strategies for playing a va
 - **Description**: Implements the improved static estimation function in the midgame/endgame phases.
 - **Usage**: `MiniMaxGameImproved <input board file> <output board file> <search depth>`
 
+## EXAMPLES
+
+### Alpha beta pruning improves the minimax algorithm 
+<img width="993" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/97364091-43be-4148-bc33-fe4e489d6992">
+
+
+### As shown below drastic reduction in number of static function evaluations after alpha beta algorithm
+<img width="1178" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/4514a6a3-d3fc-499f-ad12-bdd6e9fb5159">
+
+
 ## Important Notes
 - Ensure that the input and output files follow the specified format for representing board positions.
 - While ALPHA-BETA programs should perform faster due to reduced node evaluations, they must arrive at the same moves as their MINIMAX counterparts for consistency.
