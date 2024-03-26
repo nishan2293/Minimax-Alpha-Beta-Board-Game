@@ -2,6 +2,9 @@
 
 This project implements Artificial Intelligence (AI) strategies for playing a variant of the Morris game, focusing on different phases of the game and incorporating both traditional and advanced techniques to decide the best moves. The project is divided into several parts, each aiming to explore and implement AI strategies like MINIMAX and ALPHA-BETA pruning, along with improvements in the static estimation functions for game state evaluations.
 
+## Visual Explanation of NINEN MEN MORRIS GAME
+<img width="410" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/762349af-c1cb-429d-aee7-e10786042159">
+
 ## Part I: MINIMAX
 
 ### MiniMaxOpening
